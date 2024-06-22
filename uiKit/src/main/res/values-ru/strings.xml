@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Княжичъ</string>
+    <!-- Titles -->
+    <string name="authorization">Авторизация</string>
+    <string name="registration">Регистрация</string>
+    <string name="announcements">Анонсы</string>
+    <string name="history">Истории</string>
+    <string name="events">События</string>
+    <string name="clubs">Кружки</string>
+    <string name="aboutSchool">О школе</string>
+    <string name="timetable">Расписание</string>
+
+    <!-- Buttons -->
+    <string name="logIn">Войти</string>
+    <string name="signUp">Зарегистрироваться</string>
+    <string name="goBack">Назад</string>
+    <string name="exit">Выход</string>
+    <string name="deleteData">Удалить данные</string>
+
+    <!-- Text Fields -->
+    <string name="userName">Логин</string>
+    <string name="password">Пароль</string>
+    <string name="email">Почта</string>
+    <string name="name">Имя</string>
+    <string name="surname">Фамилия</string>
+    <string name="birthDate">Дата рождения</string>
+
+    <!-- navigation menu items -->
+    <string name="home">Главная</string>
+    <string name="menu">Меню</string>
+    <string name="profile">Личный кабинет</string>
+    <string name="settings">Настройки</string>
+
+    <!-- Messages -->
+    <string name="incorrectData">Неправильный логин и пароль</string>
+    <string name="incorrectUserName">Некорректный логин</string>
+    <string name="incorrectPassword">Пароль слишком короткий. Минимальная длина - 6 символов</string>
+    <string name="incorrectEmail">Некорректная почта. Отсутствует @</string>
+    <string name="userAlreadyExists">Пользователь с такими данными уже существует</string>
+    <string name="passwordsNotMatch">Пароли не совпадают</string>
+    <string name="dataSaved">Данные сохранены</string>
+    <string name="userNotFound">Пользователь не найден</string>
+    <string name="userDeleted">Данные пользователя удалены</string>
+    <string name="passwordChanged">Пароль изменен</string>
+    <string name="birthDateNotValid">Некорректная дата рождения или неправильный формат даты (дд.мм.гггг)</string>
+
+    <!-- Other -->
+    <string name="or">или</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
