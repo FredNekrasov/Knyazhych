@@ -23,3 +23,4 @@ rootProject.name = "Knyazhych"
 include(":app")
 include(":domain")
 include(":data")
+include(":uiKit")
