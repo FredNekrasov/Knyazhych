@@ -33,6 +33,13 @@ android {
 }
 
 dependencies {
+    // DI
+    implementation(libs.koin.core)
+    implementation(libs.koin.android)
+    // navigation
+    implementation(libs.androidx.navigation.ui.ktx)
+    implementation(libs.androidx.navigation.fragment.ktx)
+
     implementation(libs.androidx.core.ktx)
     implementation(libs.androidx.appcompat)
     implementation(libs.material)
