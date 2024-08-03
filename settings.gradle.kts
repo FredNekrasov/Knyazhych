@@ -22,7 +22,8 @@ dependencyResolutionManagement {
 rootProject.name = "Knyazhych"
 include(":app")
 
-include(":core:model")
-include(":core:database")
-include(":core:network")
 include(":core:data")
+include(":core:database")
+include(":core:domain")
+include(":core:model")
+include(":core:network")
